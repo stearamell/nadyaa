@@ -1,7 +1,7 @@
 // trigger to play music in the background with sweetalert
 window.addEventListener('load', () => {
     Swal.fire({
-        title: 'hello there do you want to open it?',
+        title: 'Are you curious to see what is behind this?',
         icon: 'love',
         showCancelButton: true,
         confirmButtonColor: '#3085d6',
